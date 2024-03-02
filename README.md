@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhrocks20" alt="shubhrocks20" /></a> </p>
 
-- 🔭 I’m currently working on [BlogPinnacle](www.github.com/shubhrocks/blogpinnacle)
+- 🔭 I’m currently working on [BlogPinnacle](https://github.com/shubhrocks20/BlogPinnacle )
 
 - 🌱 I’m currently learning **MERN Stack**
 
