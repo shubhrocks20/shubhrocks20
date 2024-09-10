@@ -5,19 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhrocks20" alt="shubhrocks20" /></a> </p>
 
-- 🔭 I’m currently working on [BlogPinnacle](https://github.com/shubhrocks20/BlogPinnacle )
-
+- 🔭 I’m currently working on [Portfolio](https://github.com/shubhrocks20/personal-portfolio)
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 👨‍💻 All of my projects are available at [https://shubhrocks20.github.io/ResponsivePortfolio/](https://shubhrocks20.github.io/ResponsivePortfolio/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://shubham-i-portfolio.vercel.app)
 
 - 💬 Ask me about **react, vite, express, mongo, node js**
 
 - 📫 How to reach me **shubhamkumar2056@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XWa0dqHA2JheSA5D3bD6skTO--PKizHm/view?usp=sharing](https://drive.google.com/file/d/1XWa0dqHA2JheSA5D3bD6skTO--PKizHm/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1I2f8aJF1j24FJd8q_xWYoxjamnjJ6MsI/view?usp=sharing)
 
 - ⚡ Fun fact **Why don't programmers like nature? It has too many branches**
 
